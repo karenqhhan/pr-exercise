@@ -2,9 +2,9 @@
 
 ## Partner A
 
-- Name:
-- One sentence about you:
-- Favorite tool so far:
+- Name: Karen
+- One sentence about you: I'm a Senior at NYU and I love pasta.
+- Favorite tool so far: Cursor
 
 ## Partner B
 
